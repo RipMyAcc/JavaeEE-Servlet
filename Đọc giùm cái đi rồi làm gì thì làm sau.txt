@@ -1,0 +1,9 @@
+Để sử dụng được project này thì:
+
+1. Vô package com.books.connect, vào cái file .java duy nhất ở đó sửa cái tên serser, tài khoàn, mật khẩu cho khớp với trong máy của mình. 
+
+2.Chạy cái script nằm bên cạnh cái note này để tạo database.
+
+3.Check xem maven có tải hết thư viện cần thiết hay không.
+
+4.Tại sao nó lại như vậy, chán Thạch quá!!!
